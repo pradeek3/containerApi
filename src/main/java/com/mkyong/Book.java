@@ -15,7 +15,7 @@ public class Book {
     private String author;
     private BigDecimal price;
 
-    // avoid this "No default constructor for entity pradeep"
+    // avoid this "No default constructor for entity pradeep1"
     public Book() {
     }
 
